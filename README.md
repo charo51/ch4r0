@@ -94,13 +94,6 @@ Contributions are welcome! Here’s how you can help:
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Submit a pull request.
 
----
-
-## 📧 **Contact**
-For questions or feedback, feel free to reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Twitter**: [@your-handle](https://twitter.com/your-handle)
 
 ---
 
