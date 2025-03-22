@@ -1,6 +1,5 @@
 # CH4R0
 
-![Banner](https://via.placeholder.com/1200x400.png?text=CH4R0+-+Advanced+Attack+Surface+Mapper)  
 *CH4R0 - A powerful tool for mapping and analyzing attack surfaces.*
 
 ---
